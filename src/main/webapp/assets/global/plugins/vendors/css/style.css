@@ -1,0 +1,23 @@
+/* ECHART  */
+.echart-chart {
+  display: block;
+  min-height: 200px;
+}
+.echart-map {
+  display: block;
+  height: 600px;
+}
+.echart-chart.dashboard-chart {
+  display: block;
+  height: 125px;
+  margin-top: 40px;
+}
+.echart-chart-content {
+  width: 100%;
+  height: 100%;
+}
+.echart-chart-pie-content {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagehelper>
+该包github无法下载，需要解压到本地maven库
+路径：	C:\root\.m2\repository\com\github(pagehelper.zip)
+</pagehelper>
+
+<plexus-utils>
+该包github无法下载，需要解压到本地maven库
+路径：C:\root\.m2\repository\org\codehaus\plexus(plexus-utils.zip)
+</plexus-utils>
+

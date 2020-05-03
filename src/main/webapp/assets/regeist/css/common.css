@@ -1,0 +1,269 @@
+ * {
+	margin:0px;
+	padding:0px;
+	font-family: 微软雅黑;
+}
+*, *:before, *:after {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body {
+	font-size:.15rem;
+	-webkit-text-size-adjust:none;
+	color:#636363;
+	line-height:1.4;
+	-webkit-user-select:none;
+	position:relative;
+	font-family: "微软雅黑";
+}
+html {
+    height:100%;
+    overflow: auto;
+}
+body{
+    height: auto;
+}
+table {
+	border-spacing:0;
+	border-collapse:collapse
+}
+td,th {
+	word-wrap:break-word
+}
+ul,li {
+	list-style:none
+}
+a {
+	outline:none;
+	text-decoration:none;
+	color:#333;
+	-webkit-tap-highlight-color:rgba(200,200,200,0.3)
+}
+a:hover {
+	text-decoration:none
+}
+a:active {
+	-webkit-tap-highlight-color:rgba(200,200,200,0.3)
+}
+img {
+	border:0 none;
+	vertical-align:middle
+}
+.arial {
+	font-family: arial;
+}
+input {
+	-webkit-appearance: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+input[type=text],input[type=password],input[type=number],input[type=url],input[type=email],input[type=tel] {
+	-webkit-appearance:none;
+	-webkit-box-align:center;
+	-webkit-box-sizing:border-box;
+	-webkit-rtl-ordering:logical;
+	-webkit-user-select:text;
+	background-attachment:scroll;
+	background-clip:border-box;
+	background-color:transparent;
+	background-image:none;
+	background-origin:padding-box;
+	border:0 none;
+	-webkit-border-radius:0
+}
+input:active, input:hover, label:active, label:hover{
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+input::-moz-placeholder {
+  color: #9b9b9b;
+  opacity: 1;
+}
+input:-ms-input-placeholder {
+  color: #9b9b9b;
+}
+input::-webkit-input-placeholder {
+  color: #9b9b9b;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.hide {
+	display: none;
+}
+.cf:before,.cf:after {
+content:"";
+display:table;
+}
+.cf:after { clear:both; }/* For IE 6/7 (trigger hasLayout) */
+.cf { zoom:1; }
+.btn {
+	width: 90%;
+    font-size: .17rem;
+    line-height: .45rem;
+    text-align: center;
+    -webkit-user-select: none;
+    border-radius: .07rem;
+    display: block;
+    margin: 0 5%;
+}
+/* 验证界面 */
+.bg_gray {
+	background-color: #f5f5f9;
+}
+.header {
+	text-align: center;
+	padding: .17rem .18rem;
+}
+.header img {
+	width: 1.28rem;
+}
+.row {
+	height: .5rem;
+	line-height: .5rem;
+	position: relative;
+	background-color: #fff;
+}
+.bottom_line{
+	border-bottom:  1px solid #e5e5e5;
+} 
+.validate_info {
+    font-size: .15rem;
+    color: rgb(155, 155, 155);
+    border: none;
+    outline: none;
+    padding: .1rem .12rem;
+    width: 100%;
+}
+.blue {
+    color: #fff;
+    background-color: #00aaf0;
+}
+.blue:active {
+	background-color: #c5eeff;
+}
+.home_verify {
+	position: absolute;
+    top: 50%;
+    right: .12rem;
+    width: 1.24rem;
+    transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    height: .4rem;
+    line-height: .4rem;
+    text-align: center;
+    border-radius: .05rem;
+}
+.validate_btn {
+}
+
+/* regis_info */
+.merchant_info p{
+	color: #333333;
+	font-size: .12rem;
+	padding-left: .12rem;
+	height: .2rem;
+	line-height: .2rem;
+}
+.merchant_info input {
+	color: #9b9b9b;
+	font-size: .15rem;
+	height: .5rem;
+	text-align: right;
+	-webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.merchant_info_detail {
+	display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+	background-color: #fff;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0 .12rem;
+	border-bottom:  1px solid #e5e5e5;
+	line-height: .5rem;
+}
+.merchant_info_detail label{
+    color: #333333;
+
+}
+.merchant_info_detail.address label{
+   -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.merchant_info_detail span {
+	display: block;
+}
+.merchant_info_detail span:before{
+  	content: " ";
+    display: inline-block;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    height: .1rem;
+    width: .1rem;
+    border-width: .03rem .03rem 0 0;
+    border-color: #C8C8CD;
+    border-style: solid;
+    position: relative;
+    top: -0.02rem;
+    top: -0.01rem;
+    margin-left: .3em;
+}
+.merchant_info_detail .blue {
+	color: #00aaf0;
+	font-weight: bold;
+}
+/* error */
+.error_img {
+	width: .71rem;
+}
+.header_error {
+	padding: .42rem 0 .15rem;
+	text-align: center;
+}
+.header_error p {
+	font-size: .17rem;
+}
+.header_error .error_1{
+	color: #f46569;
+	padding-top: .15rem;
+}
+.header_error .error_2{
+	color: #9b9b9b;
+	padding-top: .25rem;
+}
+.header_code {
+	padding: .42rem 0 .2rem;
+	text-align: center;
+}
+.header_code img{
+	width: 2.8rem;
+}
+.header_code p {
+	font-size: .15rem;
+	color: #9b9b9b;
+	margin-top: .13rem;
+}
+.province_list {
+	margin-top: .14rem;
+	background-color: #fff;
+	border-top: 1px solid #e5e5e5;
+}
+.page {
+	overflow: auto;
+}
+.row_btn{
+	height: .45rem;
+    line-height: .45rem;
+    position: relative;
+    padding: .3rem 0;
+}

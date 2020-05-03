@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>ViewBox 使用演示</title>
+        <style>
+            .pay_success {
+                padding:30px;
+                width: 400px;
+                min-height: 400px;
+                background-color: #eee;
+            }
+            .pay_success .til {
+                font-size: 28px;
+                color: #333;
+                font-weight: bold; 
+                margin: 0;
+                line-height: 40px;
+            }
+            .pay_success .content, .links_list, .pay_success_til {
+                padding-left: 65px;
+            }
+            .pay_success .content {
+                color: #848484;
+                font-size: 12px;
+            }
+            .links_list {
+                padding-top: 8px;
+            }
+            .links_list .link {
+                display: inline-block;
+                padding-right: 5px;
+                text-decoration: none;
+                color: #333;
+                font-size: 14px;
+            }
+            .pay_success_til {
+                height: 40px;
+                background: url(success.png) no-repeat;
+                background-size: 40px 40px;
+                background-position: 10px center;
+                margin-bottom: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="pay_success">
+            <div class="pay_success_til">
+                <p class="til">支付成功</p>
+            </div>
+            <div class="content">您已购买黄金套餐，有效期至 2020-12-12 12：00</div>
+            <div class="links_list">
+                <a href="#" class="link">立即返回</a>
+                <a href="#" class="link">查看主页</a>
+                <a href="#" class="link">查看vip特权</a>
+                <a href="#" class="link">查看vip列表</a>
+            </div>
+        </div>
+    </body>
+</html>
