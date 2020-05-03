@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com-movie:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ae613a4-f5fc-4a86-aedb-d8def67c5e80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/HobyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/HobyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/ManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MovieimgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MovieimgController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MtypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MtypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MycollectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MycollectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/PictureFileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/PictureFileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/PingjiaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/PingjiaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/CountryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/CountryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/CountryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/CountryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/HobyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/HobyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/HobyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/HobyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/ManagerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/ManagerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/ManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/ManagerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieimgMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieimgMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieimgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieimgMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MtypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MtypeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MtypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MtypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MycollectionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MycollectionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MycollectionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MycollectionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/PingjiaMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/PingjiaMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/PingjiaMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/PingjiaMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/CountryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/CountryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Hoby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Hoby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/HobyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/HobyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/ManagerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/ManagerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MovieExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MovieExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Movieimg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Movieimg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MovieimgExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MovieimgExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Mtype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Mtype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MtypeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MtypeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Mycollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Mycollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MycollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MycollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Pingjia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Pingjia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/PingjiaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/PingjiaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/CountryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/CountryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/HobyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/HobyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/ManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/ManagerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MovieimgService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MovieimgService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MtypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MtypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MycollectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MycollectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/PingjiaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/PingjiaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/CountryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/CountryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/HobyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/HobyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/ManagerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/ManagerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MovieimgServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieimgServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MtypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MtypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MycollectionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MycollectionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/PingjiaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/PingjiaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/utils/MD5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/utils/MD5Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/utils/PageBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/utils/PageBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CountryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CountryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/HobyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/HobyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ManagerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MovieMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MovieMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MovieimgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MovieimgMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MtypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MtypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MycollectionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MycollectionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PingjiaMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PingjiaMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-trans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/customerAndManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/customerAndManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/assets/admin/pages/css/login.css" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\com-movie" />
+        <option value="D:\com-movie\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZIxhCZJD8ZfOyOZyYE5ymbIP2l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32988507" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\com-movie\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.com-movie ">
+    <configuration name="com-movie " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.171" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.171" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/com_movie_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="com-movie:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/com_movie_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_com-movie_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56962" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="com-movie:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.com-movie " />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.171" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1576507" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae613a4-f5fc-4a86-aedb-d8def67c5e80" name="Default Changelist" comment="" />
+      <created>1584540525955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584540525955</updated>
+      <workItem from="1584540534277" duration="7149000" />
+      <workItem from="1584620859001" duration="8139000" />
+      <workItem from="1584670591383" duration="6729000" />
+      <workItem from="1584694629821" duration="137000" />
+      <workItem from="1585232616756" duration="2025000" />
+      <workItem from="1586931704929" duration="787000" />
+      <workItem from="1586933888637" duration="1221000" />
+      <workItem from="1586936910175" duration="1218000" />
+      <workItem from="1586962031137" duration="27000" />
+      <workItem from="1587029697126" duration="994000" />
+      <workItem from="1587542374268" duration="15594000" />
+      <workItem from="1587723241685" duration="1973000" />
+      <workItem from="1587803604142" duration="1917000" />
+      <workItem from="1587868479723" duration="13381000" />
+      <workItem from="1587960159119" duration="10037000" />
+      <workItem from="1588079867523" duration="5806000" />
+      <workItem from="1588129913711" duration="4454000" />
+      <workItem from="1588234840828" duration="11102000" />
+      <workItem from="1588301345814" duration="18316000" />
+      <workItem from="1588390969676" duration="2723000" />
+      <workItem from="1588479648298" duration="2026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584627076866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584627076866" />
+    <state x="467" y="230" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587565846849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="230" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587565846849" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584541578057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584541578057" />
+    <state x="550" y="259" width="274" height="209" key="Github.ShareDialog" timestamp="1588480014738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="259" width="274" height="209" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1588480014738" />
+    <state x="398" y="72" key="Github.UntrackedFilesDialog" timestamp="1588480055703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588480055703" />
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom" timestamp="1588431489861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
+    <state width="1323" height="107" key="GridCell.Tab.0.center" timestamp="1588431489861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
+    <state width="1323" height="107" key="GridCell.Tab.0.left" timestamp="1588431489860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588431489860" />
+    <state width="1323" height="107" key="GridCell.Tab.0.right" timestamp="1588431489861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
+    <state width="1089" height="252" key="GridCell.Tab.1.bottom" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state width="1089" height="252" key="GridCell.Tab.1.center" timestamp="1584640533828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584640533828" />
+    <state width="1089" height="252" key="GridCell.Tab.1.left" timestamp="1584640533828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584640533828" />
+    <state width="1089" height="252" key="GridCell.Tab.1.right" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state width="1089" height="252" key="GridCell.Tab.2.bottom" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state width="1089" height="252" key="GridCell.Tab.2.center" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state width="1089" height="252" key="GridCell.Tab.2.left" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state width="1089" height="252" key="GridCell.Tab.2.right" timestamp="1584640533829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1089" height="252" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1584640533829" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1588319801844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588319801844" />
+    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1585234421643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1585234421643" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1588481777808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588481777808" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588479648898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588479648898" />
+    <state x="334" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585232932136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585232932136" />
+    <state x="366" y="166" key="git4idea.merge.GitPullDialog" timestamp="1588481880326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588481880326" />
+  </component>
+</project>
