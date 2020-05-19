@@ -10,88 +10,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ae613a4-f5fc-4a86-aedb-d8def67c5e80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/CountryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/HobyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/HobyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/ManagerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MovieController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MovieimgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MovieimgController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MtypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MtypeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/MycollectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/MycollectionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/PictureFileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/PictureFileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/PingjiaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/PingjiaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/CountryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/CountryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/CountryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/CountryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/HobyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/HobyMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/HobyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/HobyMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/ManagerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/ManagerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/ManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/ManagerMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieimgMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieimgMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MovieimgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MovieimgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MtypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MtypeMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MtypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MtypeMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MycollectionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MycollectionMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/MycollectionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/MycollectionMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/PingjiaMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/PingjiaMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/PingjiaMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/PingjiaMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/dao/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/CountryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/CountryExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Hoby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Hoby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/HobyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/HobyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/ManagerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/ManagerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MovieExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MovieExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Movieimg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Movieimg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MovieimgExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MovieimgExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Mtype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Mtype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MtypeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MtypeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Mycollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Mycollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/MycollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/MycollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/Pingjia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/Pingjia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/PingjiaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/PingjiaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/pojo/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/pojo/UserExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/CountryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/CountryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/HobyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/HobyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/ManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/ManagerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MovieimgService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MovieimgService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MtypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MtypeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/MycollectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/MycollectionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/PingjiaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/PingjiaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/CountryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/CountryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/HobyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/HobyServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/ManagerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/ManagerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MovieimgServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieimgServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MtypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MtypeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/MycollectionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MycollectionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/PingjiaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/PingjiaServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/utils/MD5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/utils/MD5Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hnust/utils/PageBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/utils/PageBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CountryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CountryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/HobyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/HobyMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ManagerMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MovieMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MovieMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MovieimgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MovieimgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MtypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MtypeMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/MycollectionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/MycollectionMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PingjiaMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PingjiaMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-trans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/customerAndManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/customerAndManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-05-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/20150827171215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/20151009162141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/20151009162233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/20161114160233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/detil_item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/myselfbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/weixinma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/图片1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/图片2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/图片3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/img/图片4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/1234.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/20151009162141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Alan Walker - Alone.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Alessia Cara - How Far I'll Go.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/BLACKPINK - PLAYING WITH FIRE MV制作花絮.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/BLACKPINK - PLAYING WITH FIRE.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/BLACKPINK - 휘파람(WHISTLE).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Britney Spears - Slumber Party.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/DJ Snake - Let Me Love You.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/DNCE - Body Moves.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Hailee Steinfeld - Starving.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Hardwell - Get Down.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Kanye West - Fade.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/MP4.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Maroon 5 - Don't Wanna Know.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Meghan Trainor - NO.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/OK GO - The One Moment.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/ONE OK ROCK - Bedroom Warfare.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Pitbull - We Are One (Ole Ola).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Shakira - Chantaje.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Shawn Mendes - Mercy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/T-ara - Little Apple.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/TFBOYS - 是你.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/TWICE - TT.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/The Chainsmokers - Closer.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/The Veronicas - On Your Side.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/The Weeknd - M A N I A.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Troye Sivan - WILD.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/Zedd - Ignite.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/movie.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/本兮 - 下雪的季节.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadSourceCopy/upload/movie/陈奕迅 - 让我留在你身边.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hncj/service/impl/MovieServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-05-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/alert_005fmodal_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/alert_005fmodal_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/base_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/base_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/bodycomm_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/bodycomm_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/foot_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/foot_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/head_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/head_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/left_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/left_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/page_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/base/page_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/count_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/count_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/movieList_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/movieList_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/mtypeList_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/mtypeList_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/passwordEdit_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/passwordEdit_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/foot_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/foot_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/jsondata_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/jsondata_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/page_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/page_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/search_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/search_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/single_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/single_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/top_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/user/top_jsp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,22 +352,59 @@
       <workItem from="1588234840828" duration="11102000" />
       <workItem from="1588301345814" duration="18316000" />
       <workItem from="1588390969676" duration="2723000" />
-      <workItem from="1588479648298" duration="2026000" />
+      <workItem from="1588479648298" duration="4822000" />
+      <workItem from="1588667013038" duration="2342000" />
+      <workItem from="1588837773763" duration="1687000" />
+      <workItem from="1588897974185" duration="340000" />
+      <workItem from="1588900477279" duration="316000" />
+      <workItem from="1588928398469" duration="696000" />
+      <workItem from="1588995765110" duration="91000" />
+      <workItem from="1589010821911" duration="1534000" />
+      <workItem from="1589162666058" duration="19000" />
+      <workItem from="1589162708135" duration="17000" />
+      <workItem from="1589163630592" duration="968000" />
+      <workItem from="1589166522643" duration="43000" />
+      <workItem from="1589166646970" duration="10000" />
+      <workItem from="1589167661420" duration="1444000" />
+      <workItem from="1589172221604" duration="5281000" />
+      <workItem from="1589198676352" duration="1766000" />
+      <workItem from="1589516839364" duration="12688000" />
+      <workItem from="1589852017632" duration="149000" />
     </task>
+    <task id="LOCAL-00001" summary="进行了软件名称的更新">
+      <created>1588482064571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588482064571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="进行了软件名称的更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="进行了软件名称的更新" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584627076866">
+    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588900712002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584627076866" />
+    <state x="253" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588900712002" />
     <state x="467" y="230" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587565846849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="230" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587565846849" />
+    <state x="206" y="0" key="CommitChangelistDialog2" timestamp="1589852152638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="206" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589852152638" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1589852185452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1589852185452" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584541578057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -337,22 +417,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="398" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588480055703" />
-    <state width="1323" height="107" key="GridCell.Tab.0.bottom" timestamp="1588431489861">
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1589627765837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
-    <state width="1323" height="107" key="GridCell.Tab.0.center" timestamp="1588431489861">
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589627765837" />
+    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1589627765836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
-    <state width="1323" height="107" key="GridCell.Tab.0.left" timestamp="1588431489860">
+    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589627765836" />
+    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1589627765836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588431489860" />
-    <state width="1323" height="107" key="GridCell.Tab.0.right" timestamp="1588431489861">
+    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589627765836" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1589627765837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588431489861" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589627765837" />
     <state width="1089" height="252" key="GridCell.Tab.1.bottom" timestamp="1584640533829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -393,21 +473,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1585234421643" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1588481777808">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1589852114419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588481777808" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588479648898">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589852114419" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1589852185452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588479648898" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589852185452" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589852025724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589852025724" />
     <state x="334" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585232932136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="334" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585232932136" />
-    <state x="366" y="166" key="git4idea.merge.GitPullDialog" timestamp="1588481880326">
+    <state x="366" y="166" key="git4idea.merge.GitPullDialog" timestamp="1589852101299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="366" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588481880326" />
+    <state x="366" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1589852101299" />
   </component>
 </project>

@@ -45,8 +45,8 @@ public class MovieServiceImpl implements MovieService {
 		PageInfo<Movie> info = new PageInfo<Movie>(list);
 		long total = info.getTotal();
 		int totalPage = (int) ((total + pageSize - 1) / pageSize);
-		pageBean.setTotalPage(totalPage);
-		pageBean.setTotal(total);
+		pageBean.setTotalPage(totalPage);//总页数
+		pageBean.setTotal(total);//
 		pageBean.setRows(list);
 		pageBean.setCurrentPage(currentPage);
 		return pageBean;

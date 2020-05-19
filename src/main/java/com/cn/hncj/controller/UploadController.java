@@ -68,7 +68,7 @@ public class UploadController {
 	        return JSON_JSP; 
 	    }  
 	 
-	 
+	 //上传电影模块
 	 @RequestMapping(value="/uploadMovie" ,method = RequestMethod.POST)  
 	    public String uploadMovie(@RequestParam(value = "moviesrcFile", required = false) MultipartFile file, HttpServletRequest request, ModelMap model) {  
 		System.out.println("&&&&&&&&&&&&&&&&&&&&�ϴ�&&&&&&&&&&&&&&&&&&&&&&&&");
